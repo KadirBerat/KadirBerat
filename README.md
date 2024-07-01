@@ -1,6 +1,6 @@
 I started my career with software training at [Piksel Akademi](https://pikselakademi.com.tr/) and then worked as a .NET Developer. During this time, I participated in various web and mobile application projects. I also interned at Piksel Akademi as a .NET Developer while completing my undergraduate education.
 
-Currently, I am a Lead .NET Developer & Project Manager at Piksel Akademi. I am developing [Kadesh Chain](https://www.kadeshchain.com/)'s web and documentation sites and contributing to other projects.
+Currently, I am a **Lead .NET Developer & Project Manager** at **Piksel Akademi**. I am developing [Kadesh Chain](https://www.kadeshchain.com/)'s web and documentation sites and contributing to other projects.
 
 I have experience with .NET technologies (Web, Mobile, API, WCF Service, Windows Forms) and strong knowledge of C#. I have developed mobile applications using Xamarin.Forms and recently started using MAUI. I also have basic knowledge of HTML, CSS, and JavaScript.
 
