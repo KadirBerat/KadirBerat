@@ -1,8 +1,8 @@
-I started my career with software training at [Piksel Akademi](https://pikselakademi.com.tr/) and then worked as a .NET Developer. During this time, I participated in various web and mobile application projects. I also interned at Piksel Akademi as a .NET Developer while completing my undergraduate education.
+I started my software career with training at Piksel Akademi. Today, at the same company, I serve as a Lead .NET Developer & Project Manager, building ASP.NET Core–based web and CRM projects and teaching software development courses. I have taken an active role in projects for corporate clients, including Paloma Hotels and Süral Su.
 
-Currently, I am a **Lead .NET Developer & Project Manager** at **Piksel Akademi**. I am developing [Kadesh Chain](https://www.kadeshchain.com/)'s web and documentation sites and contributing to other projects.
-
-I have experience with .NET technologies (Web, Mobile, API, WCF Service, Windows Forms) and strong knowledge of C#. I have developed mobile applications using Xamarin.Forms and recently started using MAUI. I also have basic knowledge of HTML, CSS, and JavaScript.
-
-For databases, I mainly use Microsoft SQL Server. I have good experience with SQLite for mobile projects and moderate experience with Azure Cosmos DB. I have basic knowledge of MongoDB and PostgreSQL, and limited experience with IBM Db2. I use Domain Driven Design, CQRS, and Mediator patterns in my projects. I manage CI/CD processes with Azure DevOps and work on real-time development with SignalR.
-
+- **Programming:** C#, SQL, JavaScript, HTML, CSS
+- **Technologies:** .NET (8/9), .NET Framework, ASP.NET Core (MVC, Razor Pages, Web API, Minimal API, gRPC), SignalR, YARP (Reverse Proxy), Windows Forms, Xamarin.Forms, Entity Framework Core (EF Core), Git, GitHub, Azure DevOps, Syncfusion, Docusaurus, Redocly, Auth0, IdentityServer
+- **Databases:** Microsoft SQL Server, Redis, Azure Cosmos DB, SQLite
+- **Architecture:** Microservice Architecture, Multi-tenancy, N-Tier Architecture, CQRS, Domain-Driven Design (DDD), MediatR, RESTful APIs, MVVM
+- **Microsoft Azure:** App Service, API Management, Entra ID, Azure AI Services, Azure AI Translator, Web PubSub, Notification Hubs, Cosmos DB
+- **Other:** Docker, CI/CD, LINQPad, Postman, Visual Studio, Windows Server 2019/2022 & IIS, Plesk
